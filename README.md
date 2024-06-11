@@ -1,8 +1,5 @@
 ![230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c](https://github.com/Himanshu300703/Himanshu300703/assets/91286198/874b406a-2839-4db2-aed2-b7917bfb1c5c)
 
-
-## Hi Himanshu 
-
 <h2 align="left">🌟 About Me</h2>
 
 <p align="justify">I studied Python during my school years, laying a strong foundation in programming. Beginning my career at BML Munjal University, where my initial project focused on Gender, Age, and Emotion Detection from Voice, providing me with a solid grounding in machine learning and data analysis.</p>
