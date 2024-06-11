@@ -50,8 +50,8 @@
 
 ## 📈 Some Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simran7707&show_icons=true&locale=en&layout=compact" alt="Simran" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simran7707&" alt="Simran" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Himanshu300703&show_icons=true&locale=en&layout=compact" alt="Himanshu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu300703&" alt="Himanshu" /></p>
 
 
 
