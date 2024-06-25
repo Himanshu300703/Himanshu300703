@@ -27,7 +27,7 @@
   
 </p>
 
-### 🖼 Frameworks & Library
+### 🖼 Frameworks & Libraries
 
 <p>
   
@@ -40,7 +40,7 @@
   <img alt="MYSQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-## 🌸 Tool 
+## 🌸 Tools
 
 <p>
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
