@@ -2,7 +2,8 @@
 
 <h2 align="left">🌟 About Me</h2>
 
-<p align="justify">Hi, I’m Himanshu! I love diving into data and creating cool projects using my below mentioned 'Programming Kit'. I’ve worked on predicting stock market trends and detecting blood cells with machine learning. Always curious and excited about new tech! #DataScience #MachineLearning #Tech</p>  
+<p align="justify">Hi, I’m Himanshu! I love diving into data and creating cool projects using my below mentioned 'Programming Kit'. Always curious and excited about new tech! Reach me at <a href="mailto:himanshu.44999@gmail.com">himanshu.44999@gmail.com</a> :)</p>
+ 
 
 ## 👨🏻‍💻 My Programming Kit:
 
