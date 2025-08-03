@@ -10,9 +10,10 @@
   <a href="https://www.linkedin.com/in/jangra-himanshu/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://mailto:himanshu.44999@gmail.com">
+  <p>
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+    <span>: himanshu.44999@gmail.com</span>
+  </p>
 </p>
 
 ## 🚀 My Featured Projects
