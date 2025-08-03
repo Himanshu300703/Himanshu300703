@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/jangra-himanshu/)" target="_blank">
+  <a href="https://www.linkedin.com/in/jangra-himanshu/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:himanshu.44999@gmail.com">
@@ -22,12 +22,12 @@
     <td width="50%" valign="top">
       <h3>📈 NLP-Based Stock Forecasting</h3>
       <p>An application that leverages Google News sentiment to predict S&P 500 trends using LSTM networks. Features a custom sentiment dictionary and real-time updates.</p>
-      <a href="[https://github.com/Himanshu300703/your-stock-repo-link](https://github.com/Avenster/Market-Prediction-for-Next-Day)" target="_blank">View Project</a>
+      <a href="https://github.com/Avenster/Market-Prediction-for-Next-Day" target="_blank">View Project</a>
     </td>
     <td width="50%" valign="top">
       <h3>🩺 Medical Symptom Classifier</h3>
       <p>A machine learning project that processes medical text data and uses 12 different classifiers (e.g., XGBoost, Random Forest) to predict diseases based on symptoms.</p>
-      <a href="[https://github.com/Himanshu300703/your-medical-repo-link](https://github.com/Himanshu300703/Natural-Language-Processing-for-Medical-Symptoms-Text-Classification)" target="_blank">View Project</a>
+      <a href="https://github.com/Himanshu300703/Natural-Language-Processing-for-Medical-Symptoms-Text-Classification" target="_blank">View Project</a>
     </td>
   </tr>
 </table>
