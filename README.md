@@ -91,7 +91,3 @@
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
-
-## 📈 Some Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Himanshu300703&show_icons=true&locale=en&layout=compact" alt="Himanshu" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu300703&" alt="Himanshu" /></p>
